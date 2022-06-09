@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Olá Tudo bem? Eu me chamo <a href="https://www.linkedin.com/in/edududuribeiro/"><i>Ryan Phillyps</i></a> 😃️</h1>
-  <p align="center">Estudo Desenvolvimento Web na <a href="https://www.betrybe.com/"><i>Trybe</i></a><a 
+  <p align="center">Estudo Desenvolvimento Web E Desenvolvimento De Softwares</a><a 
 
 
 <!-- <h1 align="center"> 
