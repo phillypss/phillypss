@@ -2,11 +2,6 @@
   <h1 align="center">Olá Tudo bem? Eu me chamo <a href="https://www.linkedin.com/in/edududuribeiro/"><i>Ryan Phillyps</i></a> 😃️</h1>
   <p align="center">Estudo Desenvolvimento Web E Desenvolvimento De Softwares</a><a 
 
-
-<!-- <h1 align="center"> 
-  Trybe
-</h1>
-
 <p align="center"><i>"A Trybe é uma escola do futuro para qualquer pessoa que deseja construir uma carreira de sucesso em tecnologia. Como estudante a pessoa ainda tem a opção de pagar os estudos apenas quando estiver formada e com um bom trabalho."</i></p> -->
 
 <div align="center">
