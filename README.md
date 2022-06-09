@@ -1,6 +1,18 @@
 <div>
-  <h1 align="center">Olá Tudo bem? Eu me chamo <a href="https://www.linkedin.com/in/edududuribeiro/"><i>Ryan Phillyps</i></a> 😃️</h1>
-  <p align="center">Estudo Desenvolvimento Web E Desenvolvimento De Softwares</a><a 
+  <h1 align="center">Olá Tudo bem? Eu me chamo <a href="https://www.linkedin.com/in/edududuribeiro/"><i>Ryan Phillyp's</i></a> 😃️</h1>
+  <p align="center">Estudo Desenvolvimento Web, E Desenvolvimento De Softwares e atualmente desenvolvo scripts/nuis para Fivem <a href="https://fivem.net/"><i>FiveM</i></a><span> 👉🏽️</span>
+  <a align="rigth"  href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
+    <img width="10%" align="center" valign="middle" src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social  " target="_blank" />
+  </a><br>
+  <p align="center">Já se inscreve aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️</h2>
+</div>
+
+
+<!-- <h1 align="center"> 
+  Trybe
+</h1>
+
+<p align="center"><i>"A Trybe é uma escola do futuro para qualquer pessoa que deseja construir uma carreira de sucesso em tecnologia. Como estudante a pessoa ainda tem a opção de pagar os estudos apenas quando estiver formada e com um bom trabalho."</i></p> -->
 
 <div align="center">
   <a href="https://github.com/duribeiro">
