@@ -1,8 +1,9 @@
 <div>
-  <h1 align="center">Olá Tudo bem? Eu me chamo <a href="https://www.linkedin.com/in/edududuribeiro/"><i>Ryan Phillyp's</i></a> 😃️</h1>
+  <h1 align="center">Olá Tudo bem? Eu me chamo <a href="https://github.com/r4kkdevelopments"><i>Ryan Phillyp's</i></a> 😃️</h1>
   <p align="center">Estudo Desenvolvimento Web, E Desenvolvimento De Softwares e atualmente desenvolvo scripts/nuis para Fivem <a href="https://fivem.net/"><i>FiveM</i></a>
  <br>
-  <p align="center">Já se inscreve aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️</h2>
+  <p align="center">Não tentes ser bem-sucedido, tenta antes ser um homem de valor.
+                                                 Albert Einstein</h2>
 </div>
 
 
