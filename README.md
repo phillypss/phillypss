@@ -4,7 +4,7 @@
  <br>
   <p align="center">Não tentes ser bem-sucedido, tenta antes ser um homem de valor. Albert Einstein</h2>
 </div>
-
+ 
 
 <!-- <h1 align="center"> 
   Trybe
