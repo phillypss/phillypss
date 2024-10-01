@@ -11,7 +11,7 @@
     <li>Design de Interface do Usuário (UI)</li>
 </ul>
 
-<p>💪 Meus pontos fortes incluem <strong>MariaDB</strong> e <strong>PHP/Laravel</strong>, onde consigo criar aplicações robustas e eficientes. Atualmente, estou focado em desenvolver scripts e nuvens para <a href="https://fivem.net/">FiveM</a>, aproveitando meu conhecimento para criar experiências de jogo personalizadas.</p>
+<p>💪 Meus pontos fortes incluem <strong>MariaDB</strong> e <strong>PHP/Laravel</strong>, onde consigo criar aplicações robustas e eficientes. Atualmente, estou focado em sistemas de investimento, aproveitando meu conhecimento para desenvolver soluções inovadoras.</p>
 
 <p>Vamos nos conectar e colaborar em projetos incríveis!</p>
 
