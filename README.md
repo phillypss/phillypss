@@ -1,6 +1,20 @@
 <div>
-  <h1 align="center">Olá Tudo bem? Eu me chamo <a href="https://github.com/r4kkdevelopments"><i>Ryan Phillyp's</i></a> 😃️</h1>
-  <p align="center">Estudo Desenvolvimento Web, E Desenvolvimento De Softwares e atualmente desenvolvo scripts/nuis para Fivem <a href="https://fivem.net/"><i>FiveM</i></a>
+  <h1 align="center">Olá Tudo bem? Eu me chamo <a href="https://github.com/phillypss"><i>Ryan Phillyp's</i></a> 😃️</h1>
+<p>👋 Sou um desenvolvedor Full Stack com 17 anos, atuando na área desde 2020. Minha paixão por tecnologia me levou a explorar diversas linguagens e ferramentas, especializando-me em:</p>
+
+<ul>
+    <li>C++</li>
+    <li>C#</li>
+    <li>Node.js</li>
+    <li>TypeScript</li>
+    <li>Nuxt.js</li>
+    <li>Design de Interface do Usuário (UI)</li>
+</ul>
+
+<p>💪 Meus pontos fortes incluem <strong>MariaDB</strong> e <strong>PHP/Laravel</strong>, onde consigo criar aplicações robustas e eficientes. Atualmente, estou focado em desenvolver scripts e nuvens para <a href="https://fivem.net/">FiveM</a>, aproveitando meu conhecimento para criar experiências de jogo personalizadas.</p>
+
+<p>Vamos nos conectar e colaborar em projetos incríveis!</p>
+
  <br>
   <p align="center">Não tentes ser bem-sucedido, tenta antes ser um homem de valor. Albert Einstein</h2>
 </div>
