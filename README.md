@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Olá Tudo bem? Eu me chamo <a href="https://github.com/phillypss"><i>Ryan Phillyp's</i></a> 😃️</h1>
-<p>👋 Sou um desenvolvedor Full Stack com 17 anos, atuando na área desde 2020. Minha paixão por tecnologia me levou a explorar diversas linguagens e ferramentas, especializando-me em:</p>
+<p>👋 Sou um desenvolvedor Full Stack, atuando na área desde 2020. Minha paixão por tecnologia me levou a explorar diversas linguagens e ferramentas, especializando-me em:</p>
 
 <ul>
     <li>C++</li>
