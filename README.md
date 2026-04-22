@@ -15,13 +15,17 @@
   Trabalho com <strong>Next.js</strong>, <strong>NestJS</strong> e <strong>Swift</strong>, com infraestrutura em <strong>AWS S3</strong> e <strong>Kubernetes</strong>.
 </p>
 
-> *"Não tentes ser bem-sucedido, tenta antes ser um homem de valor."* — Albert Einstein
+<div align="center">
+
+  *"Não tentes ser bem-sucedido, tenta antes ser um homem de valor."* — Albert Einstein
+
+</div>
 
 <br/>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=phillypss&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false" alt="GitHub Stats"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phillypss&theme=dracula&hide_border=false&layout=compact" alt="Top Languages"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=phillypss&count_private=true&include_all_commits=true&show_icons=true&theme=dracula" alt="GitHub Stats"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phillypss&theme=dracula&layout=compact" alt="Top Languages"/>
 </div>
 
 <br/>
@@ -37,7 +41,7 @@
   <img align="center" alt="TypeScript"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 
   <!-- Backend -->
-  <img align="center" alt="NestJS"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
+  <img align="center" alt="NestJS"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
   <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 
   <!-- Mobile -->
@@ -48,7 +52,7 @@
 
   <!-- Cloud / Infra -->
   <img align="center" alt="Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
-  <img align="center" alt="AWS"        height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="AWS"        height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
   <img align="center" alt="Docker"     height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 
   <!-- Tools -->
